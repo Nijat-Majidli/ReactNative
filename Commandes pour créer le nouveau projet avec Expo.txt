@@ -1,0 +1,12 @@
+React Native
+
+Create new React application with Expo:
+1. npx create-expo-app FirstAppli
+2. cd FirstAppli
+3. npm start
+
+
+
+
+
+ 
