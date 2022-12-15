@@ -8,7 +8,7 @@ const PRODUITS = [
     likes: "2",
     size: "45",
     stocked: "true",
-    photo: require("../../assets/1.jpg"),
+    photo: require("../assets/img/1.png"),
   },
   {
     id: "2",
@@ -19,7 +19,7 @@ const PRODUITS = [
     likes: "8",
     size: "41",
     stocked: "true",
-    photo: require("../../assets/2.jpg"),
+    photo: require("../assets/img/2.png"),
   },
   {
     id: "3",
@@ -30,7 +30,7 @@ const PRODUITS = [
     likes: "21",
     size: "45",
     stocked: "true",
-    photo: require("../../assets/3.jpg"),
+    photo: require("../assets/img/3.png"),
   },
   {
     id: "4",
@@ -41,7 +41,7 @@ const PRODUITS = [
     likes: "47",
     size: "40",
     stocked: "false",
-    photo: require("../../assets/4.jpg"),
+    photo: require("../assets/img/4.png"),
   },
   {
     id: "5",
@@ -52,7 +52,7 @@ const PRODUITS = [
     likes: "15",
     size: "45",
     stocked: "true",
-    photo: require("../../assets/5.jpg"),
+    photo: require("../assets/img/5.png"),
   },
   {
     id: "6",
@@ -63,7 +63,7 @@ const PRODUITS = [
     likes: "4",
     size: "42",
     stocked: "true",
-    photo: require("../../assets/6.jpg"),
+    photo: require("../assets/img/6.png"),
   },
   {
     id: "7",
@@ -74,7 +74,7 @@ const PRODUITS = [
     likes: "4",
     size: "43",
     stocked: "false",
-    photo: require("../../assets/7.jpg"),
+    photo: require("../assets/img/7.png"),
   },
   {
     id: "8",
@@ -85,7 +85,7 @@ const PRODUITS = [
     likes: "2",
     size: "44",
     stocked: "false",
-    photo: require("../../assets/8.jpg"),
+    photo: require("../assets/img/8.png"),
   },
   {
     id: "9",
@@ -96,7 +96,7 @@ const PRODUITS = [
     likes: "4",
     size: "45",
     stocked: "true",
-    photo: require("../../assets/9.jpg"),
+    photo: require("../assets/img/9.png"),
   },
   {
     id: "10",
@@ -107,7 +107,7 @@ const PRODUITS = [
     likes: "6",
     size: "42",
     stocked: "true",
-    photo: require("../../assets/10.jpg"),
+    photo: require("../assets/img/10.png"),
   },
   {
     id: "11",
@@ -118,7 +118,7 @@ const PRODUITS = [
     likes: "12",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/nike/artBroken_1.png"),
+    photo: require("../assets/img/nike/artBroken_1.png"),
   },
   {
     id: "12",
@@ -129,7 +129,7 @@ const PRODUITS = [
     likes: "4",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/nike/filleAuBallon_1.png"),
+    photo: require("../assets/img/nike/filleAuBallon_1.png"),
   },
   {
     id: "13",
@@ -140,7 +140,7 @@ const PRODUITS = [
     likes: "2",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/nike/blueSky_2.jpg"),
+    photo: require("../assets/img/nike/blueSky_2.jpg"),
   },
   {
     id: "14",
@@ -151,7 +151,7 @@ const PRODUITS = [
     likes: "7",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/nike/burberryLion_1.jpg"),
+    photo: require("../assets/img/nike/burberryLion_1.jpg"),
   },
   {
     id: "15",
@@ -162,7 +162,7 @@ const PRODUITS = [
     likes: "27",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/adidas/harryPotter_1.jpg"),
+    photo: require("../assets/img/adidas/harryPotter_1.jpg"),
   },
   {
     id: "16",
@@ -173,7 +173,7 @@ const PRODUITS = [
     likes: "14",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/adidas/michelAnge_1.png"),
+    photo: require("../assets/img/adidas/michelAnge_1.png"),
   },
   {
     id: "17",
@@ -184,7 +184,7 @@ const PRODUITS = [
     likes: "5",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/adidas/tintin_1.png"),
+    photo: require("../assets/img/adidas/tintin_1.png"),
   },
   {
     id: "18",
@@ -195,7 +195,7 @@ const PRODUITS = [
     likes: "39",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/adidas/colorGeometric_1.png"),
+    photo: require("../assets/img/adidas/colorGeometric_1.png"),
   },
   {
     id: "19",
@@ -205,7 +205,7 @@ const PRODUITS = [
     price: "109",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/converse/astroworld_1.png"),
+    photo: require("../assets/img/converse/astroworld_1.png"),
   },
   {
     id: "20",
@@ -215,7 +215,7 @@ const PRODUITS = [
     price: "99",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/converse/CDG_1.png"),
+    photo: require("../assets/img/converse/CDG_1.png"),
   },
   {
     id: "21",
@@ -225,7 +225,7 @@ const PRODUITS = [
     price: "99",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/converse/groot_1.png"),
+    photo: require("../assets/img/converse/groot_1.png"),
   },
   {
     id: "22",
@@ -235,7 +235,7 @@ const PRODUITS = [
     price: "119",
     size: "toutes tailles",
     stocked: "true",
-    photo: require("../../assets/img/converse/wave_1.png"),
+    photo: require("../assets/img/converse/wave_1.png"),
   },
 ];
 
