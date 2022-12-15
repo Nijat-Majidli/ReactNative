@@ -2,7 +2,7 @@ import * as React from 'react';
 import { ScrollView } from 'react-native';
 import { Card, Title, Paragraph } from 'react-native-paper';
 
-// On récupére le contenu du fichier "tp.json" et on le met dans le composant data
+// On récupére le contenu du fichier "tp.json" et on le met dans le composant MyData
 const MyData = require('../../assets/tp.json')
 
 

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nom": "Margherita",
+        "description": "La pizza Margherita est une spécialité culinaire traditionnelle de la ville de Naples, en Italie. Très populaire, cette pizza napoletana est garnie de tomates, de mozzarella, de basilic frais, de sel et d'huile d'olive.",
+        "photo": "https://st.depositphotos.com/1744806/2387/i/450/depositphotos_23874389-stock-photo-pizza-margherita.jpg"
+    },
+    {
+        "id": 2,
+        "nom": "Végétarienne",
+        "description": "Courgettes, poivrons, tomates, basilic, les légumes d’été se sont donnés rendez-vous sur cette pizza végétarienne pour faire frétiller vos papilles",
+        "photo": "https://st.depositphotos.com/1744806/2387/i/450/depositphotos_23875001-stock-photo-vegetarian-pizza.jpg"
+    },
+    {
+        "id": 3,
+        "nom": "Pepperoni",
+        "description": "6km",
+        "photo": "https://st.depositphotos.com/1063346/1362/i/450/depositphotos_13625299-stock-photo-pepperoni-pizza-on-white.jpg"
+    },
+    {
+        "id": 4,
+        "nom": "Regina",
+        "description": "6km",
+        "photo": "https://st.depositphotos.com/1835807/2247/i/450/depositphotos_22475761-stock-photo-pizza-regina.jpg"
+    },
+    {
+        "id": 5,
+        "nom": "Mexicanie",
+        "description": "6km",
+        "photo": "https://st.depositphotos.com/1177973/1687/i/600/depositphotos_16872433-stock-photo-tasty-pizza-with-vegetables-chicken.jpg"
+    }
+]
